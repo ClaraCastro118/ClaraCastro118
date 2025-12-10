@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">✨ About Me<br>A developer in progress — blending Full Stack Development, Systems Analysis, and a touch of poetry in everything I create.<br>Curious by instinct, focused by choice, and always building something that matters.</h2>
+<p align="left">✨ About Me<br>A developer in progress — blending Full Stack Development, Systems Analysis, and a touch of poetry in everything I create.<br>Curious by instinct, focused by choice, and always building something that matters.</p>
 
 ###
 
